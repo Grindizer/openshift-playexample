@@ -16,7 +16,7 @@ public class Application extends Controller {
             message = "OpenShift";
         }
 
-        renderText("Powered by <s>Deis</s>" + message);
+        renderText("Powered by Dei ... heu ..." + message);
     }
 
 }
